@@ -8,7 +8,7 @@
     
 }
 .header{
-    background-image: url("c:/Users/PUJARI GANESH NAIK/Downloads/1st-section.jpg");
+    background-image: url("images/1st-section.jpg");
     background-repeat: no-repeat;
     background-size:cover;
     width: 100%;
@@ -48,7 +48,7 @@ height:700px;
 display: flex;
 flex-direction: row;
 justify-content: space-between;
-background-image:url("c:/Users/PUJARI GANESH NAIK/Downloads/2nd-section.jpg");
+background-image:url("images/2nd-section.jpg");
 background-size: cover;
 background-repeat: no-repeat;
 color: #fff;
